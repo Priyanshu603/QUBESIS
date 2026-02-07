@@ -1,0 +1,41 @@
+[
+  {
+    "domain": "google.com",
+    "resolved_ips": [
+      "142.250.77.142"
+    ],
+    "is_blocked": false,
+    "timestamp": "2026-02-07T11:52:13.517Z"
+  },
+  {
+    "domain": "facebook.com",
+    "resolved_ips": [
+      "57.144.122.1"
+    ],
+    "is_blocked": false,
+    "timestamp": "2026-02-07T11:52:13.813Z"
+  },
+  {
+    "domain": "blocked-domain.example.com",
+    "error": "queryA ENODATA blocked-domain.example.com",
+    "timestamp": "2026-02-07T11:52:14.143Z"
+  },
+  {
+    "domain": "nawala.com",
+    "resolved_ips": [
+      "13.248.169.48",
+      "76.223.54.146"
+    ],
+    "is_blocked": false,
+    "timestamp": "2026-02-07T11:52:14.751Z"
+  },
+  {
+    "domain": "example.com",
+    "resolved_ips": [
+      "104.18.27.120",
+      "104.18.26.120"
+    ],
+    "is_blocked": true,
+    "timestamp": "2026-02-07T11:52:14.948Z"
+  }
+]
